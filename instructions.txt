@@ -1,0 +1,6 @@
+Go to directory my-bioreactor-app
+cd my-bioreactor-app
+and then
+npm install react react-dom
+then do an 
+npm start
